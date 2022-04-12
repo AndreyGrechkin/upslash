@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/first_level.xml" value="0.138" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/some_id.xml" value="0.138" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/vector.xml" value="0.114" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_auth.xml" value="0.3546875" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_dashboard.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_notifications.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/item_foto.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/item_photo.xml" value="0.33" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/menu/bottom_nav_menu.xml" value="0.190625" />
+        <entry key="..\:/Users/DeFey/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/menu/toolbar_menu.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/bottom_nav_.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/button.xml" value="0.3145" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ellipce_12.xml" value="0.221" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ellipse_11.xml" value="0.3145" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ellipse_12.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/first_level.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_arrow_back.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_arrow_circle_down.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_arrow_circle_left.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_arrow_circle_right.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_collection.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_download.xml" value="0.3145" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_favorite.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_favorite_on.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_image.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_location.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_logout.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_mail.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_profile.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_search.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/ic_share.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/rectangle_1.xml" value="0.3145" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/some_id.xml" value="0.221" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/stroke.xml" value="0.3145" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/drawable/vector.xml" value="0.2365" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/font/roboto.xml" value="0.21376656690893545" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/font/roboto_black.xml" value="0.21376656690893545" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/font/roboto_medium.xml" value="0.3257802479692176" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/bottom_sheet_dialog_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/detail_photo.xml" value="0.2" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_auth.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_collection.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_collection_photo.xml" value="0.5" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_dashboard.xml" value="0.3591485507246377" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_notifications.xml" value="0.3591485507246377" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_onboarding.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_open.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_photo.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/item_collection.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/item_collection_photo.xml" value="0.5" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/item_onboarding.xml" value="0.33" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/item_photo.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/item_tags.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/layout/photo_load_state_header_footer.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/menu/toolbar_detail.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/menu/toolbar_menu.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/menu/toolbar_profile.xml" value="0.1" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/xml/network_security_config.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/defey/Documents/AndroidStudioProjects/Skillbox/diplom_android_lvl1/unsplash_skillbox/app/src/main/res/xml/provider_paths.xml" value="0.21979166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
